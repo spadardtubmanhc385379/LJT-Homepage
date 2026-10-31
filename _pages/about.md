@@ -9,7 +9,7 @@ redirect_from:
 
 ## Personal Details
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/Vicent0205), [Hong Kong University of Science and Technology (HKUST)](https://github.com/Vicent0205), supervised by [Professor Junxian He](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate). I graduated from [Shanghai Jiao Tong University (SJTU)](https://github.com/Vicent0205) in June 2024.
+I am **Junteng Liu**, a first-year PhD candidate at **HKUST NLP Group**, [Hong Kong University of Science and Technology (HKUST)](https://github.com/Vicent0205), supervised by **Professor Junxian He** (Professor at HKUST NLP Group, who also previously advised me during undergraduate studies at **Shanghai Jiao Tong University (SJTU)**). I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024.
 
 My research focuses on **natural language processing** and **machine learning**. Specifically, my research interests include:
 - **LLM Reasoning and Reinforcement Learning**
@@ -26,7 +26,7 @@ My research focuses on **natural language processing** and **machine learning**.
   - PhD supervisor: **Professor Junxian He**
 - **B.Eng. (2020 - 2024)**
   - *Shanghai Jiao Tong University (SJTU)*
-  - Graduated from Shanghai Jiao Tong University (SJTU) in June 2024
+  - Graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024
   - Previously advised by **Professor Junxian He** during undergraduate studies at SJTU
 
 ### Honors and Awards
@@ -37,12 +37,12 @@ My research focuses on **natural language processing** and **machine learning**.
 ## Research Experience
 
 - **Research Intern at MINIMAX** (February 2025 - Present)
-  - MINIMAX (AI/technology company)
+  - *MINIMAX* (AI/technology company)
 - **Research Intern at Tencent WXG** (June 2024 - September 2024)
-  - Tencent WXG (Division of Tencent technology company)
+  - *Tencent WXG* (Division of Tencent technology company)
   - Advisor: **Zifei Shan** (works at Tencent WXG)
 - **Research Intern at Shanghai AI Lab** (June 2023 - December 2023)
-  - Shanghai AI Lab (AI research laboratory)
+  - *Shanghai AI Lab* (AI research laboratory)
   - Advisor: **Prof. Yu Cheng** (Professor associated with Shanghai AI Lab)
 
 ---
@@ -66,11 +66,11 @@ My research focuses on **natural language processing** and **machine learning**.
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
    - **Authors**: **Junteng Liu** (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
    - **Venue**: Published on Arxiv (2025)
-   - **Code**: Has GitHub code repository: [Vision4Chart](https://github.com/Vicent0205)
+   - **Code**: Has GitHub code repository: `Vision4Chart`
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024)
    - **Authors**: **Junteng Liu** (First author), Shiqi Chen, Yu Cheng, Junxian He
    - **Venue**: Published at EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing)
-   - **Code**: Has GitHub code repository: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205)
+   - **Code**: Has GitHub code repository: `Universal_Truthfulness_Hyperplane`
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024)
    - **Authors**: Shiqi Chen, Miao Xiong, **Junteng Liu** (Co-author), Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
    - **Venue**: Published at ICML 2024 (International Conference on Machine Learning)
